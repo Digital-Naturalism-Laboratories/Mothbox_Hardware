@@ -1,0 +1,73 @@
+%!PS-Adobe-3.0
+%%Creator: LightBurn 1.4.03
+%%Title: G:/Shared drives/Mothbox Management/Design/v4.5/target material.lbrn2
+%%BoundingBox: 255 50 545 256
+%%HiResBoundingBox: 255.45 50.2279 544.55 255.772
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentSuppliedResources: procset Adobe_level2_AI5 1.2 0
+%%+ procset Adobe_typography_AI5 1.0 1
+%%+ procset Adobe_ColorImage_AI6 1.1 0
+%%+ procset Adobe_Illustrator_AI5 1.2 0
+%%+ procset Adobe_cshow 2.0 8
+%AI3_ColorUsage: Color
+%AI3_DocumentPreview: None
+%AI5_NumLayers: 1
+%AI5_FileFormat 2.0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_level2_AI5 1.2 0
+%%IncludeResource: procset Adobe_typography_AI5 1.0 1
+%%IncludeResource: procset Adobe_ColorImage_AI6 1.1 0
+%%IncludeResource: procset Adobe_Illustrator_AI5 1.2 0
+%%IncludeResource: procset Adobe_cshow 2.0 8
+%%EndProlog
+%%BeginSetup
+Adobe_level2_AI5 /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
+Adobe_ColorImage_AI6 /initialize get exec
+Adobe_Illustrator_AI5 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 0 0 0 0 Lb
+(Layer 1) Ln
+1 XR
+0 A
+0 O
+0 J 0 j 1 w 10 M []0 d
+1 1 0 0 K
+-1363.3229 -217.49644 m
+-1380.189 -217.49644 L
+-1380.189 -142.37883 L
+-1488.0474 -142.37883 L
+-1488.0474 -142.37834 L
+-1513.8425 -142.37834 L
+-1513.8425 -142.42593 L
+-1531.8644 -149.92476 -1543.6063 -167.52824 -1543.6063 -187.04797 C
+-1543.6063 -676.69257 L
+-1543.6063 -703.38489 -1521.9679 -725.02325 -1495.2756 -725.02325 C
+-772.44098 -725.02325 L
+-745.74866 -725.02325 -724.11023 -703.38489 -724.11023 -676.69257 C
+-724.11023 -187.04797 L
+-724.11023 -167.52823 -735.85217 -149.92474 -753.87408 -142.42593 C
+-753.87408 -142.37834 L
+-779.66925 -142.37834 L
+-779.66925 -142.37883 L
+-887.52759 -142.37883 L
+-887.52759 -217.49644 L
+-904.39368 -217.49644 L
+-904.39368 -142.37883 L
+-1363.3229 -142.37883 L
+-1363.3229 -217.49644 L
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_Illustrator_AI5 /terminate get exec
+Adobe_ColorImage_AI6 /terminate get exec
+Adobe_typography_AI5 /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_level2_AI5 /terminate get exec
+%%EOF
